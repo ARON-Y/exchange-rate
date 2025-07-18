@@ -1,0 +1,8 @@
+{
+  "name": "Vietnam Currency Calculator",
+  "short_name": "Currency Calc",
+  "start_url": "/exchange-rate/index.html",
+  "display": "standalone",
+  "background_color": "#6e8efb",
+  "theme_color": "#a777e3"
+}
